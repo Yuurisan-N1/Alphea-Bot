@@ -1,0 +1,4 @@
+aiohttp
+pyfiglet
+colorama
+yuurisan
